@@ -1,5 +1,4 @@
 package com.example.codingchallenge.exception;
-
 import com.example.codingchallenge.helper.Messages;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.ConstraintViolationException;

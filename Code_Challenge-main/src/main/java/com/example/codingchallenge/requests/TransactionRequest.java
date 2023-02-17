@@ -1,4 +1,3 @@
-
 package com.example.codingchallenge.requests;
 import com.example.codingchallenge.helper.LocalDateTimeDeserializer;
 import com.example.codingchallenge.helper.LocalDateTimeSerializer;
