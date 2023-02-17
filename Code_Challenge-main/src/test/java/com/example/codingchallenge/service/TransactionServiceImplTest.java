@@ -2,7 +2,7 @@ package com.example.codingchallenge.service;
 
 import com.example.codingchallenge.requests.TransactionRequest;
 import com.example.codingchallenge.response.StatisticsResponse;
-import com.example.codingchallenge.service.TransactionServiceImpl;
+import com.example.codingchallenge.serviceimpl.TransactionServiceImpl;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
